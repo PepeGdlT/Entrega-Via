@@ -1,0 +1,19 @@
+# Unidades reales: milimetros
+# Ejemplo tipico para una hoja A4 apoyada en una mesa.
+# Los puntos reales se definen en el plano de la hoja:
+#   p1 = (0,0)
+#   p2 = (210,0)
+#   p3 = (210,297)
+#   p4 = (0,297)
+#
+# Rellena x,y de imagen con pick_refs.py o editando a mano.
+
+SCALE 3.0
+REF p1 0 0 0 0
+REF p2 210 0 0 0
+REF p3 210 297 0 0
+REF p4 0 297 0 0
+
+# Puedes anadir dos puntos de medida ya fijados asi:
+# MEASURE m1 123.0 456.0
+# MEASURE m2 345.0 456.0

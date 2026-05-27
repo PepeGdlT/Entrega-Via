@@ -1,0 +1,4 @@
+opencv-python
+numpy<2
+requests
+ultralytics

@@ -1,0 +1,5 @@
+path: C:\Users\pepeg\PycharmProjects\VIA_Practicas_2026\05_DL\dataset
+train: train/images
+val: val/images
+names:
+  0: taza
